@@ -49,7 +49,7 @@
     "typescript": "^2.6.1"
   },
   "dependencies": {
-    "aws-sdk": "^2.443.0",
+    "aws-sdk": "^2.934.0",
     "debug": "^4.1.1"
   },
   "nyc": {
