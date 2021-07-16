@@ -50,7 +50,7 @@
   },
   "dependencies": {
     "aws-sdk": "^2.443.0",
-    "debug": "^4.1.1"
+    "debug": "^4.3.2"
   },
   "nyc": {
     "include": [
